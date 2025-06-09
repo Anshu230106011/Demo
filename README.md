@@ -1,3 +1,3 @@
 # Demo
 This is my first Git repository.
-Autho - Anshu Divyanshi
+Author - Anshu Divyanshi
